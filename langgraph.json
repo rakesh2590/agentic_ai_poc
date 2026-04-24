@@ -1,0 +1,9 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "hello": "hello_graph:graph",
+    "goodbye": "goodbye_graph:graph",
+    "summary": "summary_graph:graph"
+  },
+  "env": ".env"
+}
